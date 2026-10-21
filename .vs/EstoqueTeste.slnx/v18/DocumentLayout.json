@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|c:\\users\\malu0\\onedrive\\documentos\\aplicacoesc#\\estoqueteste\\estoqueteste\\service\\iserveceestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|solutionrelative:estoqueteste\\service\\iserveceestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|c:\\users\\malu0\\onedrive\\documentos\\aplicacoesc#\\estoqueteste\\estoqueteste\\models\\entidades\\adicionarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|solutionrelative:estoqueteste\\models\\entidades\\adicionarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|c:\\users\\malu0\\onedrive\\documentos\\aplicacoesc#\\estoqueteste\\estoqueteste\\service\\serveceestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|solutionrelative:estoqueteste\\service\\serveceestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|c:\\users\\malu0\\onedrive\\documentos\\aplicacoesc#\\estoqueteste\\estoqueteste\\controllers\\estoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|solutionrelative:estoqueteste\\controllers\\estoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|c:\\users\\malu0\\onedrive\\documentos\\aplicacoesc#\\estoqueteste\\estoqueteste\\models\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|solutionrelative:estoqueteste\\models\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|c:\\users\\malu0\\onedrive\\documentos\\aplicacoesc#\\estoqueteste\\estoqueteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|solutionrelative:estoqueteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|c:\\users\\malu0\\onedrive\\documentos\\aplicacoesc#\\estoqueteste\\estoqueteste\\models\\applicationdbcontext\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|solutionrelative:estoqueteste\\models\\applicationdbcontext\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|c:\\users\\malu0\\onedrive\\documentos\\aplicacoesc#\\estoqueteste\\estoqueteste\\models\\entidades\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9F64AE-ED09-427E-AE61-A86E0D6A9131}|EstoqueTeste\\EstoqueTeste.csproj|solutionrelative:estoqueteste\\models\\entidades\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstoqueController.cs",
+              "DocumentMoniker": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Controllers\\EstoqueController.cs",
+              "RelativeDocumentMoniker": "EstoqueTeste\\Controllers\\EstoqueController.cs",
+              "ToolTip": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Controllers\\EstoqueController.cs",
+              "RelativeToolTip": "EstoqueTeste\\Controllers\\EstoqueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:32:10.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServeceEstoque.cs",
+              "DocumentMoniker": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Service\\ServeceEstoque.cs",
+              "RelativeDocumentMoniker": "EstoqueTeste\\Service\\ServeceEstoque.cs",
+              "ToolTip": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Service\\ServeceEstoque.cs",
+              "RelativeToolTip": "EstoqueTeste\\Service\\ServeceEstoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:30:11.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdicionarProduto.cs",
+              "DocumentMoniker": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Models\\Entidades\\AdicionarProduto.cs",
+              "RelativeDocumentMoniker": "EstoqueTeste\\Models\\Entidades\\AdicionarProduto.cs",
+              "ToolTip": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Models\\Entidades\\AdicionarProduto.cs",
+              "RelativeToolTip": "EstoqueTeste\\Models\\Entidades\\AdicionarProduto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:22:54.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IServeceEstoque.cs",
+              "DocumentMoniker": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Service\\IServeceEstoque.cs",
+              "RelativeDocumentMoniker": "EstoqueTeste\\Service\\IServeceEstoque.cs",
+              "ToolTip": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Service\\IServeceEstoque.cs",
+              "RelativeToolTip": "EstoqueTeste\\Service\\IServeceEstoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:20:39.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Models\\Entidades\\Produto.cs",
+              "RelativeDocumentMoniker": "EstoqueTeste\\Models\\Entidades\\Produto.cs",
+              "ToolTip": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Models\\Entidades\\Produto.cs",
+              "RelativeToolTip": "EstoqueTeste\\Models\\Entidades\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:15:51.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Models\\Entidades\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "EstoqueTeste\\Models\\Entidades\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Models\\Entidades\\Fornecedor.cs",
+              "RelativeToolTip": "EstoqueTeste\\Models\\Entidades\\Fornecedor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:15:40.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Models\\ApplicationDBContext\\Context.cs",
+              "RelativeDocumentMoniker": "EstoqueTeste\\Models\\ApplicationDBContext\\Context.cs",
+              "ToolTip": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Models\\ApplicationDBContext\\Context.cs",
+              "RelativeToolTip": "EstoqueTeste\\Models\\ApplicationDBContext\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T23:33:38.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Program.cs",
+              "RelativeDocumentMoniker": "EstoqueTeste\\Program.cs",
+              "ToolTip": "C:\\Users\\malu0\\OneDrive\\Documentos\\AplicacoesC#\\EstoqueTeste\\EstoqueTeste\\Program.cs",
+              "RelativeToolTip": "EstoqueTeste\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T23:26:52.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
